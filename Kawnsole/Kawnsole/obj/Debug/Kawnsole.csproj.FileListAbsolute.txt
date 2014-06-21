@@ -1,0 +1,12 @@
+E:\Projects\Kawnsole\bin\data\font.png
+E:\Projects\Kawnsole\bin\libjpeg-9.dll
+E:\Projects\Kawnsole\bin\libpng16-16.dll
+E:\Projects\Kawnsole\bin\libtiff-5.dll
+E:\Projects\Kawnsole\bin\libwebp-4.dll
+E:\Projects\Kawnsole\bin\SDL2.dll
+E:\Projects\Kawnsole\bin\SDL2_image.dll
+E:\Projects\Kawnsole\bin\zlib1.dll
+E:\Projects\Kawnsole\bin\Kawnsole.dll
+E:\Projects\Kawnsole\bin\Kawnsole.pdb
+E:\Projects\Kawnsole\Kawnsole\Kawnsole\obj\Debug\Kawnsole.dll
+E:\Projects\Kawnsole\Kawnsole\Kawnsole\obj\Debug\Kawnsole.pdb

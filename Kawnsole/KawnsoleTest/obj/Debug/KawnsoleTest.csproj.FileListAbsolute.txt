@@ -1,0 +1,14 @@
+E:\Projects\Kawnsole\bin\data\font.png
+E:\Projects\Kawnsole\bin\libjpeg-9.dll
+E:\Projects\Kawnsole\bin\libpng16-16.dll
+E:\Projects\Kawnsole\bin\libtiff-5.dll
+E:\Projects\Kawnsole\bin\libwebp-4.dll
+E:\Projects\Kawnsole\bin\SDL2.dll
+E:\Projects\Kawnsole\bin\SDL2_image.dll
+E:\Projects\Kawnsole\bin\zlib1.dll
+E:\Projects\Kawnsole\bin\KawnsoleTest.exe.config
+E:\Projects\Kawnsole\bin\KawnsoleTest.exe
+E:\Projects\Kawnsole\bin\KawnsoleTest.pdb
+E:\Projects\Kawnsole\Kawnsole\KawnsoleTest\obj\Debug\KawnsoleTest.csprojResolveAssemblyReference.cache
+E:\Projects\Kawnsole\Kawnsole\KawnsoleTest\obj\Debug\KawnsoleTest.exe
+E:\Projects\Kawnsole\Kawnsole\KawnsoleTest\obj\Debug\KawnsoleTest.pdb
