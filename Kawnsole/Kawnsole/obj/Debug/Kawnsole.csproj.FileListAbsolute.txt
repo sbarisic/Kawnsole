@@ -10,3 +10,4 @@ E:\Projects\Kawnsole\bin\Kawnsole.dll
 E:\Projects\Kawnsole\bin\Kawnsole.pdb
 E:\Projects\Kawnsole\Kawnsole\Kawnsole\obj\Debug\Kawnsole.dll
 E:\Projects\Kawnsole\Kawnsole\Kawnsole\obj\Debug\Kawnsole.pdb
+E:\Projects\Kawnsole\Kawnsole\Kawnsole\obj\Debug\Kawnsole.csprojResolveAssemblyReference.cache
